@@ -30,4 +30,17 @@ Proyek ini menganalisis lebih dari 1 juta transaksi ritel online (*non-store ret
 - **Environment:** Google Colab
   
 ## 🎯 Key Analytical Steps & Business Insights
+## 📊 Key Visualizations
+
+### Grafik 1: Tren Penjualan Bulanan
+![Grafik 1](<images/download.png>)
+
+### Grafik 2: Distribusi Negara Pelanggan
+![Grafik 2](<images/download (1).png>)
+
+### Grafik 3: Top Produk Terlaris
+![Grafik 3](<images/download (2).png>)
+
+### Grafik 4: Segmentasi Pelanggan (RFM)
+![Grafik 4](<images/download (3).png>)
 
