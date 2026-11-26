@@ -28,3 +28,6 @@ Proyek ini menganalisis lebih dari 1 juta transaksi ritel online (*non-store ret
 - **Language:** Python 3
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Environment:** Google Colab
+  
+## 🎯 Key Analytical Steps & Business Insights
+
